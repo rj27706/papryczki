@@ -1,1 +1,1 @@
-paprico
+# papryczki
